@@ -6,7 +6,7 @@ It has the function setAccounts(address payable account1, address payable accoun
 <br>
 <br>
 <br>
-<p align='center'> <img src='Execution_Results/picture_seAccounts.JPG'></p>
+<p align='center'> <img src='Execution_Results/picture_setAccounts.JPG'></p>
 Through the Remix IDE the user can set the two addresses that can make withdrawals from the contract. 
  <br>
  <br>
